@@ -1,7 +1,7 @@
 # **Customer Churn Prediction**
 ## **Overview**
 
-This project focuses on predicting customer churn for a bank using machine learning techniques. The objective is to identify which clients are likely to leave the bank, enabling proactive measures to retain valuable customers. The project involves exploratory data analysis (EDA), data preprocessing, feature engineering, model training, and evaluation.
+This project focuses on predicting customer churn for a bank using machine learning techniques. The objective is to identify which clients are likely to leave the bank, enabling proactive measures to retain valuable customers. The project involves exploratory data analysis (EDA), data preprocessing, feature engineering, model training, and evaluation.[Dataset Link](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling/data)
 
 ## **Project Structure**
 
